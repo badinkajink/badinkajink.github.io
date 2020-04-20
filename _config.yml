@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: William Xie
 description: hello
+name: William Xie
+logo: /assets/img/SwabluCube.png
+show_downloads: false
+google_analytics:
